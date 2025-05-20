@@ -63,7 +63,8 @@ El diseño prioriza la visualización móvil, adaptándose progresivamente a pan
 
 ## 📝 Créditos y autoría
 
-**Nombre:** Jesús Eduardo (Yisus)  
+**Nombre:** Adrian Camilo Rincon 192531,   
+**Nombre:** Òscar Abel Bonilla Garcìa 192488
 **Rol:** Estudiante - Examen parcial II
 **Universo temático:** Star Wars (usado como inspiración educativa)  
 **Año:** 2025
@@ -78,3 +79,4 @@ El diseño prioriza la visualización móvil, adaptándose progresivamente a pan
 
 ¡Que la Fuerza esté contigo en este y todos tus proyectos digitales! 🌌
 Link de la previsualización : **https://www.figma.com/design/JY0q9iHoqYWFUQHaSKc4Z3/StarWars?node-id=22-2&t=b8RWaL4AZtcETtgK-1**
+^
